@@ -1,0 +1,1 @@
+Ce Projet est une simple application Java EE qui se base sur les technologies Servlet et JSP afin de se familiariser avec la palteform JavaEE ainsi le pattern MVC
